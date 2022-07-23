@@ -1,6 +1,6 @@
 ### 💕 Bem vinde ao meu perfil! 💕
 
-- 🔭 Recém-formada em Analise e Desenvolvimento de Sistemas!
+- 🔭 Formada em Analise e Desenvolvimento de Sistemas!
 - 🌱 Sempre em busca de novos conhecimentos.
 - 😄 Pronomes: Ela/Dela.
 - ⚡ Hobbies: Games, Desenhar e Ler.
