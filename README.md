@@ -3,7 +3,7 @@
 - 🔭 Formada em Analise e Desenvolvimento de Sistemas!
 - 🌱 Sempre em busca de novos conhecimentos.
 - 😄 Pronomes: Ela/Dela.
-- ⚡ Hobbies: Games, Desenhar e Ler.
+- ⚡ Atualmente estudando JAVA.
 - 💬 Se Desejar, me mande uma mensagem no Linkedin
 
 
@@ -30,5 +30,3 @@
   <a href="https://www.linkedin.com/in/raphaela-gaudard-oshiro-349743145/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-
-![Snake animation](https://github.com/raphaelagaudard/raphaelagaudard/blob/output/github-contribution-grid-snake.svg)
