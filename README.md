@@ -3,7 +3,7 @@
 - 🔭 Formada em Analise e Desenvolvimento de Sistemas!
 - 🌱 Sempre em busca de novos conhecimentos.
 - 😄 Pronomes: Ela/Dela.
-- ⚡ Atualmente estudando JAVA.
+- ⚡ Atualmente estudando Java.
 - 💬 Se Desejar, me mande uma mensagem no Linkedin
 
 
@@ -20,7 +20,7 @@
   <img align="center" alt="Rapha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rapha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rapha-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img align="center" alt="Rapha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rapha-Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   
   ##
  
