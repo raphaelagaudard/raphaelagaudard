@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/raphaelagaudard">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelagaudard&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelagaudard&layout=compact&langs_count=7&theme=highcontrast" style="align="left"/>
 </div>
   
   <div style="display: inline_block"><br>
