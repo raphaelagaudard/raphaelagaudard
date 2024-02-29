@@ -1,5 +1,3 @@
-<div align="center">
-
 ### 💕 Bem vinde ao meu perfil! 💕
 
 - 🔭 Formada em Analise e Desenvolvimento de Sistemas!
@@ -8,10 +6,8 @@
 - ⚡ Atualmente estudando Java.
 - 💬 Se Desejar, me mande uma mensagem no Linkedin
 
-</div>
 
-
-<div align="center">
+<div align="left">
   <a href="https://github.com/raphaelagaudard">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelagaudard&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
