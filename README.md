@@ -1,10 +1,7 @@
 ### 💕 Bem vinde ao meu perfil! 💕
 
 - 🔭 Formada em Analise e Desenvolvimento de Sistemas!
-- 🌱 Sempre em busca de novos conhecimentos.
-- 😄 Pronomes: Ela/Dela.
 - ⚡ Atualmente estudando Java.
-- 💬 Se Desejar, me mande uma mensagem no Linkedin
 
 
 <div align="left">
