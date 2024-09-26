@@ -1,4 +1,4 @@
-### 💕 Bem vinde ao meu perfil! 💕
+### 💕 Bem vindo(a) ao meu perfil! 💕
 
 - 🔭 Formada em Analise e Desenvolvimento de Sistemas!
 - ⚡ Atualmente estudando Java.
